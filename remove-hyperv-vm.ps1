@@ -1,4 +1,5 @@
 ﻿#requires -version 2
+
 <#
 .SYNOPSIS
   Delete Hyper-V VM with an input .CSV file
