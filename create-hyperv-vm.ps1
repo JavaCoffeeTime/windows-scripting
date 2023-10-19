@@ -76,8 +76,7 @@ function Select-FileDialog
 		[System.Windows.Forms.MessageBox]::Show("Script is not able to continue. Operation stopped.", "Operation canceled", 0, [Windows.Forms.MessageBoxIcon]::Error)
 		Stop-TranscriptOnLog
 		Exit
-	}
-	
+	}	
 }
 
 #------------------------------------------------------------[Actions]-------------------------------------------------------------
