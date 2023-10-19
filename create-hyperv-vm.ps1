@@ -11,13 +11,6 @@
 
 .OUTPUTS
   Create transcript log file similar to $ScriptDir\[SCRIPTNAME]_[YYYY_MM_DD]_[HHhMMmSSs].log
-
-.NOTES
-  Version:        1.0
-  Author:         ALBERT Jean-Marc
-  Creation Date:  26/08/2015
-  Purpose/Change: 2015.08.24 - ALBERT Jean-Marc - Initial script development
-				  2015.08.26 - ALBERT Jean-Marc - Replace .CSV fixed name per file dialog selection
                                                   
 .EXAMPLE
   <None>
